@@ -49,19 +49,19 @@ Make sure you have the following installed on your machine:
 # API Endpoints
 
 ## Authentication
-POST /api/auth/register: Register a new user.
-POST /api/auth/login: Log in an existing user.
+- POST /api/auth/register: Register a new user.
+- POST /api/auth/login: Log in an existing user.
 
 ## Books
-GET /api/books: Retrieve a list of all books.
-POST /api/books: Add a new book.
-GET /api/books/{id}: Retrieve a specific book by ID.
-PUT /api/books/{id}: Update a specific book by ID.
-DELETE /api/books/{id}: Delete a specific book by ID.
+- GET /api/books: Retrieve a list of all books.
+- POST /api/books: Add a new book.
+- GET /api/books/{id}: Retrieve a specific book by ID.
+- PUT /api/books/{id}: Update a specific book by ID.
+- DELETE /api/books/{id}: Delete a specific book by ID.
 
 ## Authors
-GET /api/authors: Retrieve a list of all authors.
-POST /api/authors: Add a new author.
-GET /api/authors/{id}: Retrieve a specific author by ID.
-PUT /api/authors/{id}: Update a specific author by ID.
-DELETE /api/authors/{id}: Delete a specific author by ID.
+- GET /api/authors: Retrieve a list of all authors.
+- POST /api/authors: Add a new author.
+- GET /api/authors/{id}: Retrieve a specific author by ID.
+- PUT /api/authors/{id}: Update a specific author by ID.
+- DELETE /api/authors/{id}: Delete a specific author by ID.
