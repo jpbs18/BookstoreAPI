@@ -46,20 +46,20 @@ Make sure you have the following installed on your machine:
 
 4. The API will be available at http://localhost:8000
 
-#API Endpoints
+# API Endpoints
 
-##Authentication
+## Authentication
 POST /api/auth/register: Register a new user.
 POST /api/auth/login: Log in an existing user.
 
-Books
+## Books
 GET /api/books: Retrieve a list of all books.
 POST /api/books: Add a new book.
 GET /api/books/{id}: Retrieve a specific book by ID.
 PUT /api/books/{id}: Update a specific book by ID.
 DELETE /api/books/{id}: Delete a specific book by ID.
 
-Authors
+## Authors
 GET /api/authors: Retrieve a list of all authors.
 POST /api/authors: Add a new author.
 GET /api/authors/{id}: Retrieve a specific author by ID.
