@@ -47,7 +47,7 @@ async fn rocket() -> _ {
         .manage(config)
         .mount("/", routes![options])
         .mount(
-            "/auth",
+            "/api/auth",
             routes![
                 controllers::auth::sign_in,
                 controllers::auth::sign_up,
@@ -55,7 +55,7 @@ async fn rocket() -> _ {
             ],
         )
         .mount(
-            "/authors",
+            "/api/authors",
             routes![
                 controllers::authors::index,
                 controllers::authors::create,
@@ -66,7 +66,7 @@ async fn rocket() -> _ {
             ],
         )
         .mount(
-            "/books",
+            "/api/books",
             routes![
                 controllers::books::index,
                 controllers::books::create,
