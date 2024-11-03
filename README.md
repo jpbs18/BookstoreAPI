@@ -33,12 +33,12 @@ Make sure you have the following installed on your machine:
 
 2. Create a .env file in the root directory and set up your database connection parameters:
 
-   BOOKSTORE_DB_HOST=host
-   BOOKSTORE_DB_PORT=port
-   BOOKSTORE_DB_USERNAME=user
-   BOOKSTORE_DB_PASSWORD=password
-   BOOKSTORE_DB_DATABASE=database
-   BOOKSTORE_JWT_SECRET=secret
+   - BOOKSTORE_DB_HOST=host
+   - BOOKSTORE_DB_PORT=port
+   - BOOKSTORE_DB_USERNAME=user
+   - BOOKSTORE_DB_PASSWORD=password
+   - BOOKSTORE_DB_DATABASE=database
+   - BOOKSTORE_JWT_SECRET=secret
 
 3. Run the following command to build and run the application:
 
