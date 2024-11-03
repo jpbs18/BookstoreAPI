@@ -74,4 +74,4 @@ Make sure you have the following installed on your machine:
 
 To facilitate API testing and development, a Postman workspace has been set up with all the necessary requests. You can import the collection to your own Postman application using the link below:
 
-[Postman Workspace Link](https://www.postman.com/joaomindswap/rustworkspase/collection/upl2gzr/bookstore?action=share&creator=23380575)
+[Postman Workspace Link](https://api.postman.com/collections/23380575-8605da6b-59fd-4370-b769-e111698ef28a?access_key=PMAT-01JBS7P9S8A21F0YTV5BSXTAPV)
