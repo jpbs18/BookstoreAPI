@@ -46,6 +46,8 @@ Make sure you have the following installed on your machine:
 
 4. The API will be available at http://localhost:8000
 
+   
+
 # API Endpoints
 
 ## Authentication
@@ -65,6 +67,8 @@ Make sure you have the following installed on your machine:
 - GET /api/authors/{id}: Retrieve a specific author by ID.
 - PUT /api/authors/{id}: Update a specific author by ID.
 - DELETE /api/authors/{id}: Delete a specific author by ID.
+
+
 
 # Postman Workspace
 
