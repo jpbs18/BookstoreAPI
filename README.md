@@ -70,7 +70,7 @@ Make sure you have the following installed on your machine:
 
 
 
-# Postman Workspace
+# Postman Collection
 
 To facilitate API testing and development, a Postman workspace has been set up with all the necessary requests. You can import the collection to your own Postman application using the link below:
 
